@@ -21,3 +21,8 @@ Images built in this project are available at following sites:
   - latest image: `registry.gitlab.com/musicscience37/gcc-ubuntu-docker:latest`
 - [Docker Hub](https://hub.docker.com/r/musicscience37/gcc-ubuntu)
   - latest image: `musicscience37/gcc-ubuntu:latest`
+
+## Test
+
+To run the test of the container built in this project,
+run `run_test.sh` script in the root directory.
