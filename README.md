@@ -11,7 +11,7 @@
 
 Docker container image to use GCC on Ubuntu.
 
-Curren version of GCC used in this project is 8.3.0.
+Current version of GCC used in this project is 8.3.0.
 
 ## Images
 
